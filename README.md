@@ -45,19 +45,21 @@ Maintaining the module is not easy; if possible, please consider donating.
 
 - Telegraph/Graph Messenger: Premium/Remove Ads
 - Truecaller: Gold Membership
-- Duolingo: Max Membership + 3x XP Boost
+- Duolingo: Max Membership ~~+ 3x XP Boost~~
+- Thanox: VIP Membership
+- Android Faker: VIP Membership
 
 **.......**
 
 ---
 
-## 🍋Compatible Versions
+## 🍋 Compatible Versions
 
 Here, I provide installation packages for compatible apps.
 
-```bash
-Coming Soon...
-```
+- [Android Faker (1.9.2)](https://github.com/Android1500/AndroidFaker/releases/download/v1.9.2/app-release.apk)
+
+**All the latest versions of the app should work if the installation package is not provided above.**
 
 ---
 
